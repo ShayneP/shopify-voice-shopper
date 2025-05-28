@@ -17,7 +17,7 @@ import urllib.parse
 
 logger = logging.getLogger("mcp-agent")
 
-load_dotenv(dotenv_path=Path(__file__).parent.parent / '.env')
+load_dotenv()
 
 @dataclass
 class ShopifyUserData:
