@@ -1,3 +1,8 @@
+![]()<p align="center">
+  <img width="500" alt="Screenshot 2025-05-28 at 6 17 57 PM" src="https://github.com/user-attachments/assets/f611bda6-8c64-47df-a5bd-b42fb4266443" />
+</p>
+
+
 # Shopify Voice Shopper
 
 Shopify Voice Shopper is a demo project that combines a [LiveKit](https://livekit.io/) voice agent with a small Next.js frontend. The Python agent (`shopify.py`) connects to Shopify stores through the public MCP endpoint on every shop using the Agent MCP client and responds to users via voice. The `shopify-voice-frontend` directory contains a web UI and Chrome extension for talking with the agent.
